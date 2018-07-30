@@ -1,0 +1,13 @@
+.item-name {
+    float: left;
+    padding-left: 30px;
+    pointer-events: none;
+    cursor: default;
+}
+
+.item-price {
+    float: right;
+    padding-right: 30px;
+    pointer-events: none;
+    cursor: default;
+}
